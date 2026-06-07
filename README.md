@@ -103,12 +103,6 @@ node server.js
 
 ---
 
-## Screenshots
-
-Add project screenshots here.
-
----
-
 ## Future Improvements
 
 - Maze Generation Algorithms
